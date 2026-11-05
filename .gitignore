@@ -1,0 +1,15 @@
+# 개인 설정과 인증 정보
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+*.pem
+*.key
+# 로컬·생성 파일
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.wrangler/
+GitHub배포용/
+GitHub배포용.zip

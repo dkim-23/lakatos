@@ -1,0 +1,6 @@
+{
+  "name": "lakatos-ai",
+  "main": "cloudflare/worker.js",
+  "compatibility_date": "2026-11-06",
+  "workers_dev": true
+}
